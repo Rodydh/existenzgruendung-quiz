@@ -1,0 +1,11 @@
+{
+  "name": "Existenzgründung – 196 Fragen",
+  "short_name": "Gründungsquiz",
+  "description": "Probeklausuren mit 196 Fragen, Timer, Navigation, Auswertung und Fehlertraining.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f5f6f8",
+  "theme_color": "#20242a",
+  "orientation": "any"
+}
